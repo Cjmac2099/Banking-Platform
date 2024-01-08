@@ -1,11 +1,3 @@
-/*Name: Christopher Johnson, 5007642687, 1021, Assignment 8
-Description: a program which runs like a banking system. The app
-will have the user login to the account then allow the user to do 
-standard banking applications such as deposits and withdrawals.
-Input: user account information
-Output: the data of whatever the user selects to see as well as all 
-outputs required to get said data 
-*/
 #include<iostream>
 #include<iomanip>
 using namespace std;
